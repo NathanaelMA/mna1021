@@ -1,19 +1,12 @@
-### Hi there 👋,
+### Hi, I'm Nate 👋,
 
 <br/>
-I'm Nate!
 
-<!--
-**mna1021/mna1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🎓Computer Science Student
-- 🔭 I’m currently working on **web** and **mobile** development
+- 🎓 Computer Science Student
+- 🔭 Working on **web** and **mobile** development
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanaelahiagbedey/)
 
-- ⚡ Fun fact: I'm bilingual. I speak english and JavaScript
+- ⚡ Fun fact: I'm bilingual. I speak English and JavaScript
 
 ### 🧠 Languages I use
 
@@ -28,3 +21,4 @@ src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&lo
 
 <img height='20' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'>
 
+</code>
