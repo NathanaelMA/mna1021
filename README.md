@@ -2,13 +2,19 @@
 
 <br/>
 
+<div>
+
+<img src='https://media.giphy.com/media/5rT8xqVLpB6S6Ej89o/giphy.gif' widht='40%' align='right' height='250px'>
+
 - 🎓 Computer Science Student
 - 🔭 Working on **web** and **mobile** development
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanaelahiagbedey/)
 
 - ⚡ Fun fact: I'm bilingual. I speak English and JavaScript
 
-<!-- <code> <img height='20'
+
+</div>
+<code> <img height='20'
 src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
 
 <img height='20' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
@@ -19,11 +25,19 @@ src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&lo
 
 <img height='20' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
 
-</code> -->
+</code>
+
+### 🧠 Languages I use 
 
 <div>
-  <h3> ### 🧠 Languages I use </h3>
   <p>
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+<!-- js  -->
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+<!-- REACT -->
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+<!-- VS CODE -->
+<img src='https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif' width='50'>
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <p>
 </div>
