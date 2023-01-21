@@ -14,6 +14,9 @@
 
 
 </div>
+
+
+### 🧠 Languages I use 
 <code> <img height='20'
 src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
 </code>
@@ -34,17 +37,9 @@ src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&lo
 
 </code>
 
-### 🧠 Languages I use 
 
+tools
 <div>
-  <p>
-<!-- js  -->
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-<!-- REACT -->
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
-<!-- VS CODE -->
-<img src='https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif' width='50'>
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  <p>
 </div>
