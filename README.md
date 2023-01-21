@@ -12,15 +12,15 @@
 
 - ⚡ Fun fact: I'm bilingual. I speak English and JavaScript
 
-
 </div>
 
+### 🧠 Languages I use
 
-### 🧠 Languages I use 
 <code> <img height='20'
 src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
 </code>
 
+<div display='flex'>
 <code>
 <img height='20' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
 
@@ -36,9 +36,10 @@ src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&lo
 <img height='20' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
 
 </code>
+</div>
 
+### 💻 Tools
 
-tools
 <div>
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
