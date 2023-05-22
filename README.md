@@ -17,7 +17,7 @@
 
 ![Nate's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mna1021&theme=blue-green)
 
-![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=mna1021&show_icons=true&theme=dark&hide=contribs)
+![Nate's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mna1021&show_icons=true&theme=dark&hide=contribs)
 
 ## 🧠 Languages & Frameworks I use
 
