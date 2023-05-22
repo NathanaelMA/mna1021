@@ -2,6 +2,8 @@
 
 <hr/>
 
+![Nate's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mna1021&show_icons=true&theme=dark&hide=contribs)
+
 <div>
 
 <img src='https://media.giphy.com/media/5rT8xqVLpB6S6Ej89o/giphy.gif' widht='40%' align='right' height='250px'>
@@ -15,9 +17,7 @@
 <br/>
 </div>
 
-![Nate's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mna1021&theme=blue-green)
-
-![Nate's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mna1021&show_icons=true&theme=dark&hide=contribs)
+![Nate's github stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mna1021&theme=blue-green&langs_count=3&width=400&height=10)
 
 ## 🧠 Languages & Frameworks I use
 
