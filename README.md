@@ -6,7 +6,7 @@
 
 <div>
 
-<img src='https://media.giphy.com/media/5rT8xqVLpB6S6Ej89o/giphy.gif' widht='40%' align='right' height='250px'>
+<img src='https://media.giphy.com/media/5rT8xqVLpB6S6Ej89o/giphy.gif' widht='40%' align='right' height='150px'>
 
 - 🔭 Working on **web** and **mobile** development
 
@@ -16,10 +16,6 @@
 
 <br/>
 </div>
-
-![testing](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mna1021&theme=blue-green&layout=compact&langs_count=3&custom_title=Top%20Languages&card_width=400)
-
-![testing](https://github-readme-stats.vercel.app/api/top-langs/?username=mna1021&theme=blue-green&layout=compact&card_width=400&exclude_repo=TicTacToe-ReactNative&exclude_repo=CIS470React)
 
 ## 🧠 Languages & Frameworks I use
 
