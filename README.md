@@ -17,7 +17,7 @@
 <br/>
 </div>
 
-![Nate's github stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mna1021&theme=blue-green&langs_count=3&width=400&height=10)
+![testing](https://github-readme-stats.vercel.app/api/top-langs/?username=mna1021&theme=blue-green&layout=compact&langs_count=3&custom_title=Top%20Languages&card_width=400)
 
 ## 🧠 Languages & Frameworks I use
 
