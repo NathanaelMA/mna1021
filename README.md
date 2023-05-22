@@ -1,4 +1,4 @@
-# Hi, I'm Nate 👋, ![Profile View Counter](https://komarev.com/ghpvc/?username=mna1021)
+# Hi, I'm Nate 👋,
 
 <hr/>
 
